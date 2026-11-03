@@ -110,13 +110,3 @@ astrbot_plugin_reply_limiter/
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
-
-## ❤️ Sponsors
-
-Welcome to sponsor us via [Afdian](https://afdian.com/a/astrbot_team) or [contact us](mailto:community@astrbot.app).
-
-<p align="center">
-  <a target="_blank" href="https://astrbot.app/#/sponsors">
-    <img alt="sponsors" src="https://sponsors.astrbot.app/?v=1">
-  </a>
-</p>
