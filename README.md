@@ -1,7 +1,11 @@
 <style>
-  /* 贡献者头像变圆 */
-  img[src*="avatars.githubusercontent.com"] {
+  /* 强制 all-contributors 头像变圆并统一大小 */
+  .all-contributors-table img {
     border-radius: 50% !important;
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover !important;
+    display: inline-block;
   }
 </style>
 
