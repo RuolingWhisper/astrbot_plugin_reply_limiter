@@ -1,10 +1,3 @@
-<style>
-  /* 贡献者头像变圆 */
-  img[src*="avatars.githubusercontent.com"] {
-    border-radius: 50% !important;
-  }
-</style>
-
 # astrbot_plugin_reply_limiter
 
 限制 AstrBot 机器人回复的字符长度。在消息发出前统计回复文本长度，超过上限时自动**截断**或整条**拦截**。
