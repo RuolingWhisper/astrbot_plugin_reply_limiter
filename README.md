@@ -99,4 +99,14 @@ astrbot_plugin_reply_limiter/
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/RuolingWhisper">
+            <img src="https://avatars.githubusercontent.com/u/207548601?v=4" width="100;" alt="RuolingWhisper"/>
+            <br />
+            <sub><b>RuolingWhisper</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
