@@ -95,3 +95,8 @@ astrbot_plugin_reply_limiter/
 - 适用 AstrBot v3.5.20+（使用 `metadata.yaml` 而非 `metadata.json`）
 - 使用前请把 `metadata.yaml` 中的 `author` 和 `repo` 改成你自己的信息，`main.py` 中 `@register(...)` 的第二个参数同理
 - 无第三方依赖，不需要 `requirements.txt`
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
